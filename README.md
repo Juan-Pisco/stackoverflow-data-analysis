@@ -1,4 +1,4 @@
-# Data analysis for StackOverflow's survey results from 2020 using Pandas library
+# Data analysis for StackOverflow's survey results from 2020 using Pandas
 ## Following the CRISP-DM
 
 According to steps 1 and 2 (Business Understanding and Data Understanding) from the CRISP-DM, questions were proposed according to employment and salary
